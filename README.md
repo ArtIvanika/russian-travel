@@ -12,7 +12,7 @@
 
 **Проект**
 
-* [Ссылка на проект](https://github.com/ArtIvanika/russian-travel.git)
+* [Ссылка на проект](https://artivanika.github.io/russian-travel/)
 
 **Используемые технологии**
 
