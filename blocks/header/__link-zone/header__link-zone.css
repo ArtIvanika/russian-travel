@@ -1,0 +1,8 @@
+.header__link-zone{
+    padding-top: 18px;
+}
+@media screen and (max-width: 320px) {
+    .header__link-zone {
+        padding-top: 14px;
+  }
+}

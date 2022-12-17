@@ -1,0 +1,15 @@
+.lead__title{
+    margin: 0 auto;  
+    max-width: 720px;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 100px;
+}
+/* в разрешение 700px начинает съезжать влево*/
+@media screen and (max-width: 700px) {
+    .lead__title {
+        max-width: 288px;
+        font-size: 40px;
+        line-height: 44px;
+}
+}

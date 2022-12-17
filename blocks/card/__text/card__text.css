@@ -1,0 +1,25 @@
+.card__text{
+    margin: 0;
+    max-width: 484px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 163%;
+    margin-bottom: 26px;
+}
+.card__text:last-child{
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 950px) {
+    .card__text{
+        font-size: 16px;
+        margin-bottom: 25px;
+        max-width: 352px;
+    }
+}
+@media screen and (max-width: 750px) {
+    .card__text{
+        margin: 0 auto;
+        max-width: 288px;
+    }
+}

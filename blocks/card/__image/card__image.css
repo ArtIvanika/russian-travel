@@ -1,0 +1,18 @@
+.card__image{
+    max-width: 460px;
+}
+@media screen and (max-width: 1024px) {
+    .card__image{
+        max-width: 440px;
+    }
+}
+@media screen and (max-width: 950px) {
+    .card__image{
+        max-width: 340px;
+    }
+}
+@media screen and (max-width: 320px) {
+    .card__image{
+        max-width: 320px;
+    }
+}
