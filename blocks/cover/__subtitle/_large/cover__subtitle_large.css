@@ -1,0 +1,6 @@
+@media screen and (max-width: 650px) {
+    .cover__subtitle_large{
+      display: none;
+    }
+
+}
