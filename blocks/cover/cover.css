@@ -3,3 +3,18 @@
     width: 100%;
 }
 
+
+@media screen and (max-width: 768px) {
+    .cover{
+        margin: 85px auto 88px auto;
+    }
+    
+}
+
+@media screen and (max-width: 320px) {
+    .cover{
+        margin: 66px auto 64px auto;
+    }
+    
+}
+

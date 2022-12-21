@@ -1,8 +1,11 @@
 .card__link-zone{
     align-self: flex-end;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 750px) {
     .card__link-zone{
+    
+       box-sizing: border-box;
        padding-left: 16px;
+       width: 100%;
     }
 }

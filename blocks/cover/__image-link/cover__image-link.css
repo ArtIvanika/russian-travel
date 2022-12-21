@@ -51,6 +51,15 @@
    }
 }
 
+@media screen and (max-width: 450px) {
+    .cover__image-link{
+       min-height: 281px;  
+   }
+   .cover__image-link::before{
+       min-height: 281px;
+}
+}
+
 @media screen and (max-width: 320px) {
     .cover__image-link{
        min-height: 200px;  

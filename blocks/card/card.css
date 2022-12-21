@@ -32,6 +32,13 @@
         grid-template-columns: repeat(1, minmax(320px, 1fr));
         gap: 32px;
         margin: 0 auto;
-        margin-top: 50px;
+        margin-top: 48px;
+    }
+}
+@media screen and (max-width: 360px) {
+    .card{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
     }
 }

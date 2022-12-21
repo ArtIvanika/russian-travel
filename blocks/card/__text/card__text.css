@@ -21,5 +21,9 @@
     .card__text{
         margin: 0 auto;
         max-width: 288px;
+        margin-bottom: 25px;
+
+        box-sizing: border-box;
+        padding-right: 2px;
     }
 }
